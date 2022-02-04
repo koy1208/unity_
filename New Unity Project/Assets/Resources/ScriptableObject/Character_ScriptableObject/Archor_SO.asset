@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab7a521fe872ac4f931efc2a1056582, type: 3}
+  m_Name: Archor_SO
+  m_EditorClassIdentifier: 
+  _characterSource: {fileID: 3685679716537550956, guid: 6d6525d27a0b84c44adba5739c5cc703,
+    type: 3}
+  _skillScriptNames:
+  - Skill_Normal_Attack
+  _characterName: Archor
+  _maxHP: 1000
+  _Atk: 80
+  _Def: 10
+  _criticalDamage: 0
+  _criticalPercentage: 0
+  _speed: 23
+  _maxHPbyLevel: 75
+  _AtkbyLevel: 5
+  _DefbyLevel: 1

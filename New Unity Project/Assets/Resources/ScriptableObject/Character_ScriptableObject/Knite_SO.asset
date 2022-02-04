@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab7a521fe872ac4f931efc2a1056582, type: 3}
+  m_Name: Knite_SO
+  m_EditorClassIdentifier: 
+  _characterSource: {fileID: 2222835131931187207, guid: a03140f23e741414d9680e7999b6bfa5,
+    type: 3}
+  _skillScriptNames:
+  - Skill_Normal_Attack
+  - Skill_Buff_Increase_ATK
+  - Skill_WideArea_Attack
+  _characterName: Knite
+  _maxHP: 100000
+  _Atk: 100
+  _Def: 20
+  _criticalDamage: 0
+  _criticalPercentage: 0
+  _speed: 15
+  _maxHPbyLevel: 100
+  _AtkbyLevel: 10
+  _DefbyLevel: 10

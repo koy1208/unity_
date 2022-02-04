@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab7a521fe872ac4f931efc2a1056582, type: 3}
+  m_Name: Enemy_SO
+  m_EditorClassIdentifier: 
+  _characterSource: {fileID: 2222835131931187207, guid: 5de2d501b2c12ea4ea206eb796d9b8e8,
+    type: 3}
+  _skillScriptNames:
+  - Skill_Normal_Attack
+  _characterName: Enemy
+  _maxHP: 1000
+  _Atk: 100
+  _Def: 10
+  _criticalDamage: 0
+  _criticalPercentage: 0
+  _speed: 12
+  _maxHPbyLevel: 0
+  _AtkbyLevel: 0
+  _DefbyLevel: 0
